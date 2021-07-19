@@ -10,6 +10,8 @@ reactDom.render(
     <h1> My Todo List</h1>
     <ul>
       <li> Buy Food</li>
+      <li> Cook Food</li>
+      <li> Eat Food</li>
       </ul>
       </div>,
       document.getElementById("root")
